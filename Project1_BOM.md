@@ -9,4 +9,4 @@
 | Breadboard + Jumpers  |   |   |
 | Chassis  |   |   |
 | Wheels  |   |   |
-| Castor wheel  |   |   |
+| Castor wheel  | https://www.pololu.com/product/952 | 1.99  |
